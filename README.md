@@ -18,7 +18,7 @@ This repository contains tasks assigned for acm sig ai
 
 > Basic maths
 
-1.count dig
+*.count dig
 ![image](https://github.com/user-attachments/assets/54ee55a5-c848-4044-8922-6f23c899a720)
 
 2.Reverse number
