@@ -20,6 +20,14 @@ This repository contains tasks assigned for acm sig ai
  - hashing completed
    ![hash1](https://github.com/user-attachments/assets/7e161997-2a0c-4d6a-bb10-294fe11528dd)
    ![hash2](https://github.com/user-attachments/assets/4a8ea15c-457c-4403-8e56-e9bd58842bf7)
+   -sorting completed
+   ![selSort](https://github.com/user-attachments/assets/4fcc0da1-a728-467d-8259-834b558d67f3)<br>
+   ![bubSort](https://github.com/user-attachments/assets/8fbc8cf4-7502-462f-9842-ff881661f352)<br>
+   ![insSort](https://github.com/user-attachments/assets/e9bce3ef-c65d-4ed7-9977-de4bc2684c80)
+
+
+   
+
 
  
 
