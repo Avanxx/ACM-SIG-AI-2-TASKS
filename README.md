@@ -16,23 +16,12 @@ This repository contains tasks assigned for acm sig ai
 ![image](https://github.com/user-attachments/assets/d5758bdb-3d17-4eb5-804c-ec63aa811704)
 
 
-> Basic maths
+ ## 09-04-25
+ - hashing completed
+   ![hash1](https://github.com/user-attachments/assets/7e161997-2a0c-4d6a-bb10-294fe11528dd)
+   ![hash2](https://github.com/user-attachments/assets/4a8ea15c-457c-4403-8e56-e9bd58842bf7)
 
-1.count dig
-![image](https://github.com/user-attachments/assets/54ee55a5-c848-4044-8922-6f23c899a720)
-
-2.Reverse number
-
-3.checking palindrome
-
-4.GCD or HCF
-
-
-5.Armstrong numbers
-
-6.Print all divisors 
-
-7.Check for prime
+ 
 
 
 
