@@ -1,6 +1,6 @@
 # ACM-SIG-AI-2-TASKS
 This repository contains tasks assigned for acm sig ai 
-<style><line-height:1.5px></style>
+<line-height:1.5px>
 
 ![image](https://github.com/user-attachments/assets/3513d705-99d6-49c1-9f68-c383d65581ef)
 
