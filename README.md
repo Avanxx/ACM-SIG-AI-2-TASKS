@@ -26,6 +26,20 @@ This repository contains tasks assigned for acm sig ai
    ![bubSort](https://github.com/user-attachments/assets/8fbc8cf4-7502-462f-9842-ff881661f352)<br>
    ![insSort](https://github.com/user-attachments/assets/e9bce3ef-c65d-4ed7-9977-de4bc2684c80)
 
+   ## 15-04-25
+   -Problems on array
+   -Largest element
+   ![Screenshot 2025-04-15 210526](https://github.com/user-attachments/assets/53365b89-7e3f-4cd1-9fd2-7028f93bb2c6)
+   -Sorted array
+   ![image](https://github.com/user-attachments/assets/eba154ba-bedf-491d-b5e6-4ae354fe7a00)
+   -Remove duplicates
+   ![image](https://github.com/user-attachments/assets/d2cfc118-2571-4681-99a1-8346951f48e2)
+   -Left rotate an array by one place
+   
+
+
+
+
 
    
 
