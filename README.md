@@ -35,6 +35,47 @@ This repository contains tasks assigned for acm sig ai
    -Remove duplicates
    ![image](https://github.com/user-attachments/assets/d2cfc118-2571-4681-99a1-8346951f48e2)
    -Left rotate an array by one place
+
+   -Union of 2 sorted arrays
+   ![image](https://github.com/user-attachments/assets/e252d0bf-d7b9-48ca-bbfd-8c4fc47ad12a)
+
+   -Finding missing element in an array
+   ![image](https://github.com/user-attachments/assets/c44b1d5c-3a06-4870-8548-dbcbc15b5136)
+   
+   -Maximum consecutive ones
+   ![image](https://github.com/user-attachments/assets/82b7743d-3414-4aa9-a4ab-7841224b9e2b)
+
+   -Number appearing once and twice
+   ![image](https://github.com/user-attachments/assets/956fd04a-5d00-4097-9cec-0906a3dc769a)
+
+   -Two sum
+   ![image](https://github.com/user-attachments/assets/a61d2993-5bed-4f0c-87a1-f08fe0c25f92)
+
+   -Sort an array of 0's 1's and 2's
+   ![image](https://github.com/user-attachments/assets/a3286e59-5dc9-4f6e-987c-233dde919341)
+
+   -Majority Element
+   ![image](https://github.com/user-attachments/assets/0947a97a-dec2-404f-acfc-8b3ea4c674f0)
+
+   -Kadane's Algorithm
+   ![image](https://github.com/user-attachments/assets/a884bf73-4370-4f60-b9f8-b1db76c716b6)
+
+   -Best time to buy and sell stock
+   ![image](https://github.com/user-attachments/assets/af554a79-3e01-4e64-ae6a-cb9f8c3be334)
+
+   -Rearrange array elements by sign
+   
+
+
+
+   
+
+
+
+
+
+
+
    
 
 
