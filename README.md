@@ -64,6 +64,23 @@ This repository contains tasks assigned for acm sig ai
    ![image](https://github.com/user-attachments/assets/af554a79-3e01-4e64-ae6a-cb9f8c3be334)
 
    -Rearrange array elements by sign
+
+   -Next permuation
+   ![image](https://github.com/user-attachments/assets/39ad8d48-959d-4d3e-bbd5-e349f597ee12)
+   
+   -Leaders in Array
+   ![Screenshot 2025-04-17 081218](https://github.com/user-attachments/assets/8d74e2b0-14f9-44a0-b2a9-bf7e6cb95a96)
+   
+   -Longest consecutive sequence
+   ![image](https://github.com/user-attachments/assets/2c93e507-56aa-462e-a19c-530136726ec3)
+   
+   -Set matrix zeroes
+   ![image](https://github.com/user-attachments/assets/fef90e5b-33c7-4844-99bb-7959b19e8e5d)
+
+   -Rotate matrix by 90
+   
+   
+
    
 
 
