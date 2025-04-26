@@ -168,6 +168,17 @@ This repository contains tasks assigned for acm sig ai
 
    -4 Sum
    
+   ![image](https://github.com/user-attachments/assets/9912538c-3da4-472c-80ec-b361bf579c03)
+
+   -Merge sorted array
+   
+   ![image](https://github.com/user-attachments/assets/18eeecfa-d45c-49cd-aa25-d754da13d7df)
+
+   - Find the repeating and missing number
+     
+
+
+   
 
      
     
