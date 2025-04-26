@@ -162,7 +162,13 @@ This repository contains tasks assigned for acm sig ai
    
    ![image](https://github.com/user-attachments/assets/8bf222fd-e602-4a44-aa1c-2b1cec5875cc)
 
-   - 3 Sum
+## 26-04-2025
+ - 3 sum
+   ![Screenshot 2025-04-26 113741](https://github.com/user-attachments/assets/8eb2698e-223e-406a-be7d-db1bab6249e4)
+
+   -4 Sum
+   
+
      
     
 
